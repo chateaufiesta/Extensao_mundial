@@ -1,5 +1,9 @@
-# Extensao_mundial
+# Extensão Mundial
 Extensão que informa os jogos que vão decorrer no Mundial 2018 por dia e com indicação do canal onde vai ser transmitido.
+
+
+![alt text](https://github.com/chateaufiesta/Extensao_mundial/raw/master/static/extensao.PNG)
+
 
 Extensão para o Google Chrome baseada no template  <a href="https://github.com/YuraDev/vue-chrome-extension-template">Vue.js Chrome Extension Template</a>.
 
