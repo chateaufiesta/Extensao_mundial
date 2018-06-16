@@ -18,4 +18,8 @@ $ npm run dev
 
 Para usar a extensão basta entrar em chrome://extensions, ativar o modo de programador e arrastar para essa página a pasta "build" que é criada quando se corre o npm run dev.
 
+Foi criado o ext_mundial.zip, este zip tem a pasta que deve ser colocada na página chrome://extensions para quem não quer usar o npm. Basta descompactar e arrastar a pasta build para o chrome://extensions.
+
+Algum problema/sugestão de melhoria apitem.
+
   
